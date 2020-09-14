@@ -5,7 +5,7 @@ import docx
 import os
 import re
 
-# Stor path withouth the file
+# Store path withouth the file
 pathWF = 'C:\\Users\\Emil\\Desktop\\1. Semester\\SU1'
 
 # Takes input name for file
